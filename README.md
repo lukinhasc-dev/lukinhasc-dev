@@ -9,7 +9,7 @@ Meu foco no momento está em dominar **HTML**, **CSS**, **JavaScript** e explora
 - No futuro, quero aprender mais sobre **Node.js**, **TypeScript**, **SQL** e expandir minhas habilidades em back-end.
 
 ### 🚀 Meus Projetos:
-Aqui você pode encontrar vídeos de alguns dos projetos qdos quais já concluí. Fique à vontade para explorar, contribuir ou me dar sugestões!
+Aqui você pode encontrar vídeos de alguns dos projetos dos quais já concluí. Fique à vontade para explorar, contribuir ou me dar sugestões!
 
 - [Projeto 1](https://www.linkedin.com/posts/lucas-silva-53281b254_econecta-redeempresarial-sustentabilidade-activity-7200639265221799937-GJyy?utm_source=share&utm_medium=member_desktop): Econecta, desenvolvido no Figma para a criação de uma rede social empresarial com diversas funções, usando metodologias ágeis como o Trello para facilitar a organização do app.
 - [Projeto 2](https://www.linkedin.com/posts/lucas-silva-53281b254_mysql-modelagemsql-projetoacademico-activity-7196942840440991744-IQ3O?utm_source=share&utm_medium=member_desktop): Vipesports, desenvolvido um banco de dados utilizando MySQL Workbench para o cadastro de usuários na academia, exercícios para o aplicativo, e cadastro de máquinas para gerenciar suas datas de manutenção, compras, e etc.
