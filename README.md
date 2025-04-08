@@ -1,10 +1,10 @@
-<h1 align="start">👋 Olá, eu sou o Lucas Silva — ou só Lukinhas 😄</h1>
+<h1 align="center"> Olá, eu sou o Lucas — mas pode me chamar de Lukinhas! 👋</h1>
 
 <p align="justify">
-  Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) pela UniFECAF.
-Possuo grande interesse por desenvolvimento web, boas práticas de programação e soluções criativas que tragam impacto real.
-Atualmente, estou em busca da minha primeira oportunidade na área de Tecnologia da Informação para colocar em prática os conhecimentos adquiridos.
-Meu objetivo a longo prazo é me tornar um Engenheiro de Software Full Stack, ampliando cada vez mais minhas habilidades técnicas e experiências profissionais.
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) pela UniFECAF. <br>
+  💻 Apaixonado por desenvolvimento web, boas práticas de programação e soluções criativas que gerem impacto real. <br>
+  🚀 Em busca da minha primeira oportunidade na área de Tecnologia da Informação para aplicar e expandir meus conhecimentos na prática. <br>
+  🎯 Meu objetivo a longo prazo é me tornar um Engenheiro de Software Full Stack, sempre evoluindo tecnicamente e profissionalmente.
 </p>
 
 ---
@@ -23,28 +23,39 @@ Meu objetivo a longo prazo é me tornar um Engenheiro de Software Full Stack, am
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhasc-dev&layout=compact&langs_count=8&theme=tokyonight" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lukinhasc-dev&show_icons=true&theme=tokyonight&count_private=true" height="150em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lukinhasc-dev&theme=tokyonight" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhasc-dev&layout=compact&langs_count=8&theme=tokyonight" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lukinhasc-dev&show_icons=true&theme=tokyonight&count_private=true" height="170em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lukinhasc-dev&theme=tokyonight" height="170em"/>
 </div>
 
-## 📫 Onde me encontrar
 
-<p align="left">
+---
+<h2 align="center"> Vamos nos conectar! 🤝 </h1>
+
+<p align="justify">
+  Estou sempre aberto a diálogos construtivos — seja para compartilhar conhecimentos, trocar experiências, discutir ideias, ou colaborar em projetos desafiadores.
+  Acredito que a troca de experiências é essencial para o crescimento na área de tecnologia, então sinta-se à vontade para entrar em contato comigo!
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lucas-silva-53281b254/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <span style="display:inline-block; transform:scale(1.2);">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </span>
   </a>
-  
+
   <a href="https://www.instagram.com/lukinhasc_lessa/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <span style="display:inline-block; transform:scale(1.2);">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </span>
   </a>
-  
+
   <a href="mailto:contato.lucas.silva.2005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <span style="display:inline-block; transform:scale(1.2);">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </span>
   </a>
 </p>
 
-Estou disponível para trocar ideias, tirar dúvidas, colaborar em projetos ou bater um papo sobre o mundo tech!
 
----
 
