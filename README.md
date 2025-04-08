@@ -23,9 +23,9 @@ Meu objetivo a longo prazo é me tornar um Engenheiro de Software Full Stack, am
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhasc-dev&layout=compact&langs_count=8&theme=tokyonight" height="200em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lukinhasc-dev&show_icons=true&theme=tokyonight&count_private=true" height="200em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lukinhasc-dev&theme=tokyonight" height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhasc-dev&layout=compact&langs_count=8&theme=tokyonight" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lukinhasc-dev&show_icons=true&theme=tokyonight&count_private=true" height="150em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lukinhasc-dev&theme=tokyonight" height="150em"/>
 </div>
 
 ## 📫 Onde me encontrar
