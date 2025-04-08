@@ -1,23 +1,50 @@
-# Olá, eu sou o **Lucas**, mas pode me chamar de Lukinhas! 👋
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UniFECAF** 🎓, com uma paixão enorme por **front-end** 💻. Estou sempre em busca de aprender e melhorar minhas habilidades, explorando novas tecnologias e compartilhando o que aprendo com a comunidade.
-Meu foco no momento está em dominar **HTML**, **CSS**, **JavaScript** e explorar frameworks como **React**. Mas meu objetivo é me tornar um **Full Stack Developer** 🚀 e, no futuro, cursar **Engenharia de Software** para me aprofundar ainda mais no universo da tecnologia.
+<h1 align="start">👋 Olá, eu sou o Lucas Silva — ou só Lukinhas 😄</h1>
 
-### 📚 O que estou aprendendo:
-- **HTML** & **CSS**: Construção de páginas e interfaces.
-- **JavaScript** & **React**: Desenvolvimento interativo e dinâmico de sites.
-- **Git** & **GitHub**: Controle de versões e colaboração em projetos.
-- No futuro, quero aprender mais sobre **Node.js**, **TypeScript**, **SQL** e expandir minhas habilidades em back-end.
+<p align="justify">
+  Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) pela UniFECAF.
+Possuo grande interesse por desenvolvimento web, boas práticas de programação e soluções criativas que tragam impacto real.
+Atualmente, estou em busca da minha primeira oportunidade na área de Tecnologia da Informação para colocar em prática os conhecimentos adquiridos.
+Meu objetivo a longo prazo é me tornar um Engenheiro de Software Full Stack, ampliando cada vez mais minhas habilidades técnicas e experiências profissionais.
+</p>
 
-### 🚀 Meus Projetos:
-Aqui você pode encontrar vídeos de alguns dos projetos dos quais já concluí. Fique à vontade para explorar, contribuir ou me dar sugestões!
+---
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
+</p>
 
-- [Projeto 1](https://www.linkedin.com/posts/lucas-silva-53281b254_econecta-redeempresarial-sustentabilidade-activity-7200639265221799937-GJyy?utm_source=share&utm_medium=member_desktop): Econecta, desenvolvido no Figma para a criação de uma rede social empresarial com diversas funções, usando metodologias ágeis como o Trello para facilitar a organização do app.
-- [Projeto 2](https://www.linkedin.com/posts/lucas-silva-53281b254_mysql-modelagemsql-projetoacademico-activity-7196942840440991744-IQ3O?utm_source=share&utm_medium=member_desktop): Vipesports, desenvolvido um banco de dados utilizando MySQL Workbench para o cadastro de usuários na academia, exercícios para o aplicativo, e cadastro de máquinas para gerenciar suas datas de manutenção, compras, e etc.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhasc-dev&layout=compact&langs_count=8&theme=tokyonight" height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lukinhasc-dev&show_icons=true&theme=tokyonight&count_private=true" height="200em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lukinhasc-dev&theme=tokyonight" height="200em"/>
+</div>
 
-### 📫 Vamos nos conectar!
-- [LinkedIn](https://www.linkedin.com/in/lucas-silva-53281b254/)
-- [Instagram](https://www.instagram.com/lukinhasc_lessa/)
-- [Email](contato.lucas.silva.2005@gmail.com)
+## 📫 Onde me encontrar
 
-Se você tem alguma dúvida ou quer bater um papo sobre desenvolvimento, ou até mesmo ajuda para projetos, estou sempre aberto a conversar! 🤝
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-silva-53281b254/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://www.instagram.com/lukinhasc_lessa/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  <a href="mailto:contato.lucas.silva.2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+Estou disponível para trocar ideias, tirar dúvidas, colaborar em projetos ou bater um papo sobre o mundo tech!
+
+---
 
